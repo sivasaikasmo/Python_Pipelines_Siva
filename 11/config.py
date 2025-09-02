@@ -1,0 +1,11 @@
+config_details={
+    'client':'mongodb://localhost:27017/',
+    'db':'projects',
+    'collection':'projects_10'
+}
+config={
+    'user':'root',
+    'password':'siva',
+    'host':'localhost',
+    'database':'projects_10',
+}
