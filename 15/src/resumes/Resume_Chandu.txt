@@ -1,0 +1,57 @@
+CHANDRASRI SOMISETTY
+Chennai, TN ♦ 9951712561 ♦chandrasrisomisetty@gmail.com ♦ Portfolio ♦ LinkedIn ♦ GitHub
+SUMMARY
+A highly analytical Data Enthusiast with expertise in data visualization, reporting, and process optimization. Proficient in SQL,
+Power BI, Snowflake, and Python, with strong problem-solving and stakeholder collaboration skills. Adept at developing
+dashboards, analyzing trends, and ensuring data accuracy to support strategic decision-making.
+SKILLS
+Databases SQL Server (Joins, Window Functions, Views), MySQL
+BI & Visualization Tools Microsoft Power BI (Data Modeling, DAX, Power Query, Report Building, Dashboard Creation)
+Analytical Skills Statistics (Bayesian Methods, A/B Testing), Machine Learning (scikit-learn, TensorFlow)
+Artificial Intelligence Prompt Engineering, Generative AI
+Microsoft Office Suite Microsoft Excel (Macros, Charts, Pivot Tables, VBA), Word, PowerPoint, Outlook, Visio
+Programming Languages Python (Pandas, NumPy, SciPy, Matplotlib)
+Additional Skills Snowflake (Snowpark, Snowsight)
+EXPERIENCE
+Comcast Jul 2025 – Present
+Data Engineer Intern
+• Developed and optimized complex SQL queries for data extraction, transformation, and reporting across business domains.
+• Designed and implemented scalable ETL pipelines to automate data ingestion and processing workflows.
+• Integrated and maintained Snowflake data warehouse environments, ensuring performance, reliability, and schema
+alignment.
+NitlyTech Jun 2022 – Jul 2023
+Data Analyst
+• Designed and maintained interactive dashboards and reports using Power BI.
+• Wrote optimized SQL queries to extract, analyze, and manipulate data from multiple sources.
+• Collaborated with stakeholders to gather reporting requirements and translate business needs into technical solutions.
+PROJECTS
+Customer Churn Analysis
+• Processed and analyzed over 10,000 sales records using MSSQL Server, performed exploratory data analysis, and developed
+two interactive Power BI dashboards to present actionable insights and machine learning predictions.
+• Built a machine learning model with an accuracy of 82% to predict customer trends, showcasing expertise in SQL, data
+visualization, and machine learning to support data-driven strategies.
+Comprehensive Data Pipeline and Analysis
+• Extracted, cleaned, and transformed (ETL) datasets from Kaggle using Python, Pandas, and NumPy, reducing data
+inconsistencies by 72% and improving data processing time by 47%.
+• Ensured data integrity and implemented normalization techniques during dataset transformation using Python and Pandas,
+enhancing consistency across relational databases and improving data accuracy by 83%.
+• Created insightful visualizations using Power BI, leading to a 21% increase in data-driven decision-making efficiency.
+Student Performance Prediction
+• Utilized various machine learning algorithms using scikit-learn to predict student performance with an accuracy of 84%,
+enhancing the ability of educational institutions to forecast student retention
+• Developed visualizations using Matplotlib to present model results and insights, increasing stakeholder engagement by 28%.
+Data Analysis Pipeline Using Generative AI
+• Built a data analysis pipeline with tools like Data Robot and ChatCSV, emphasizing analytics, process improvement, and
+innovation. Utilized Python and business intelligence strategies to meet business objectives and enhance metrics tracking.
+CERTIFICATIONS
+• Snowflake (Badge 1, Badge 2, Badge 3, Badge 4) • Generative AI: Prompt Engineering Basics
+• IBM Data Science Professional Certificate • Databases and SQL with Python
+• Microsoft Power BI Data Analyst • Statistics Foundations for Data Analyst
+EDUCATION
+The University of Texas at Arlington Aug 2023 – May 2025
+Master of Science; Major in Computer and Information Sciences Arlington, TX
+• Earned an Impressive CGPA of 3.83, demonstrating proficiency in artificial intelligence and data science skills.
+Sastra Deemed University Jun 2019 – May 2023
+Bachelor of Technology, Major in Computer Science Thanjavur, India
+• Achieved a CGPA of 8.38 and earned Dean's List honors at SASTRA University, ranking in the top 5% for 2019-2020,
+highlighting machine learning proficiency and academic excellence.
